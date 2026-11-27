@@ -1,44 +1,44 @@
 {
- "generado": "2026-11-27T12:34-03:00",
+ "generado": "2026-11-27T12:56-03:00",
  "portales": {
   "allaccess": {
    "portal": "AllAccess",
    "ok": true,
    "cantidad": 87,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 37
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 32
   },
   "alpogo": {
    "portal": "Alpogo",
    "ok": true,
    "cantidad": 229,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 6
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 3
   },
   "autoentrada": {
    "portal": "Autoentrada",
    "ok": true,
    "cantidad": 8,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 5
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 4
   },
   "enigma": {
    "portal": "Enigma Tickets",
    "ok": true,
    "cantidad": 19,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 15
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 8
   },
   "entradauno": {
    "portal": "EntradaUno",
    "ok": true,
    "cantidad": 39,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
+   "ultima_ok": "2026-11-27T12:56-03:00",
    "segundos": 1
   },
   "eventbrite": {
@@ -46,15 +46,15 @@
    "ok": true,
    "cantidad": 27,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 74
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 58
   },
   "livepass": {
    "portal": "Livepass",
    "ok": true,
-   "cantidad": 110,
+   "cantidad": 111,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
+   "ultima_ok": "2026-11-27T12:56-03:00",
    "segundos": 6
   },
   "passline": {
@@ -62,24 +62,24 @@
    "ok": true,
    "cantidad": 1029,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 10
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 6
   },
   "ticketek": {
    "portal": "Ticketek",
    "ok": true,
    "cantidad": 50,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 44
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 27
   },
   "tuentrada": {
    "portal": "Tu Entrada",
    "ok": true,
    "cantidad": 78,
    "error": null,
-   "ultima_ok": "2026-11-27T12:34-03:00",
-   "segundos": 8
+   "ultima_ok": "2026-11-27T12:56-03:00",
+   "segundos": 10
   }
  },
  "eventos": [
@@ -25107,6 +25107,23 @@
      "modulo": "enigma",
      "url": "https://www.enigmatickets.com/event/ffd93365-871d-4514-acfb-68a291aef16c",
      "precio": 40000
+    }
+   ]
+  },
+  {
+   "titulo": "Julia Zenko en Café Berlín",
+   "fecha": "2027-01-28T20:45",
+   "lugar": "Café Berlín",
+   "ciudad": "CABA",
+   "provincia": "Buenos Aires",
+   "imagen": "https://livepass-com-ar.uploads.ticketplus.global/images/thumbs/b0c7522497b36fbb4b188fd05c0cb424c2c58936.jpg?1795720510",
+   "categoria": "Teatro",
+   "enlaces": [
+    {
+     "portal": "Livepass",
+     "modulo": "livepass",
+     "url": "https://livepass.com.ar/events/julia-zenko-en-cafe-berlin-2027-01-28-20-45-00-0300",
+     "precio": 46000.0
     }
    ]
   },
