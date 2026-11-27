@@ -72,7 +72,9 @@ _CIUDADES = {
                  "san lorenzo", "esperanza", "casilda", "firmat", "canada de gomez",
                  "granadero baigorria", "roldan", "perez", "sunchales",
                  "san justo santa fe", "villa constitucion", "rufino",
-                 "gálvez", "galvez", "las parejas", "armstrong"],
+                 "gálvez", "galvez", "las parejas", "armstrong",
+                 "san jeronimo norte", "ataliva", "humboldt", "san carlos centro",
+                 "coronda", "helvecia", "san javier", "vera", "avellaneda santa fe"],
 }
 
 
